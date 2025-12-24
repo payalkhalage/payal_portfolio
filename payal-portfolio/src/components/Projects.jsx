@@ -303,7 +303,7 @@ export default function Projects() {
           title="Wellness & Yoga Appointment App"
           description="A wellness and yoga appointment application that helps users manage sessions, track daily activities, and maintain healthy routines."
           tech="Tech: React, CSS, Context API"
-          github="https://github.com/payalkhalage/wellness-app"
+          github="https://github.com/payalkhalage/arvyax-wellness-app"
           images={wellImages}
           index={wellIndex}
           setIndex={setWellIndex}
